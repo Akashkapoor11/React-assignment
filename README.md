@@ -76,4 +76,3 @@ src/
 └── index.css      # Global styles
 ```
 
---
