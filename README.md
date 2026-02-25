@@ -76,8 +76,4 @@ src/
 └── index.css      # Global styles
 ```
 
----
-
-## Submission
-
-Built by **Akash Kapoor** for the Jotish ReactJS Assignment.
+--
