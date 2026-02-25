@@ -2,7 +2,7 @@
 
 > ReactJS Employee Management Portal — built as part of the Jotish frontend assignment.
 
-![Employee Directory](screenshots/list.png)
+<img width="1919" height="962" alt="Image" src="https://github.com/user-attachments/assets/d437cda4-4c2a-4075-bc0c-790ada64a091" />
 
 
 ---
