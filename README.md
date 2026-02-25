@@ -1,4 +1,4 @@
-# Jotish Portal
+# Portal
 
 > ReactJS Employee Management Portal — built as part of the Jotish frontend assignment.
 
